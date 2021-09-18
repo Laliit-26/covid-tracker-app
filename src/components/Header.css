@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Gluten&display=swap');
+.icon{
+    font-family: 'Gluten', cursive;
+    font-size:x-large;
+}
+.mm{
+    height:300px;
+    width:400px;
+}
+.navbar{
+    width:100%;
+}
