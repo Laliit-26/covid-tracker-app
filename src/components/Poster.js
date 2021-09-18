@@ -45,7 +45,7 @@ export default function Poster() {
           return p
         }
         sort_new().then((data) => {
-          call_again(data)
+          call_again(data);
         })
 
         // async function sort_death() {
